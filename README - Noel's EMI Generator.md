@@ -41,8 +41,9 @@
 
 ## 📸 Screenshots
 
-![App Icon](icon.png)  
-*More screenshots to be added soon!*
+[image](https://github.com/user-attachments/assets/137eb5c5-2bf7-43e5-8c86-d4ebb8dd26c6)
+[image](https://github.com/user-attachments/assets/f18575f6-ad41-4527-b65d-24e61671912f)
+
 
 ---
 
@@ -50,14 +51,13 @@
 
 ```
 noels-emi-generator/
-├── main.py
-├── emi_calculator.py
-├── assets/
-│   └── icon.png
-├── templates/
-├── dist/ (contains .exe)
-├── README.md
-├── LICENSE
+├── BOOKOS.TTF
+├── BOOKOSB.TTF
+├── DEJAVISANS.TTF
+├── EMI Calculator.exe
+├── IMAGE.ICO
+├── README - Noel's EMI Generator.md
+├── SCRIPT.PY
 ```
 
 ---
